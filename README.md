@@ -119,19 +119,6 @@ https://github.com/user-attachments/assets/1e2c5f3f-9b13-4044-b9b6-bf3f86a2a882
 
 ---
 
-## 📈 Python Visualizations
-
-| Genre Distribution | Popularity Analysis |
-|--------------------|---------------------|
-| ![](images/genre_distribution.png) | ![](images/popularity_analysis.png) |
-
-| Ratings Distribution | Release Trend |
-|----------------------|---------------|
-| ![](images/ratings_distribution.png) | ![](images/release_trend.png) |
-
-| Vote Count Analysis |
-|---------------------|
-| ![](images/vote_count_analysis.png) |
 
 ---
 
